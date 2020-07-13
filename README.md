@@ -5,5 +5,5 @@
 - 🐶 I’m mainly focused on frontend (I don't know JS at all)
 - 🤔 I’m looking for help with how to get a gf.
 - 😪 I'm always sleepy (or you can buy me boba to wake me up!)
-- 💬 Ask me about nothing
+- 💬 Ask me about [nothing](https://box.n3ko.co/_/pcdotfan)
 - 📫 How to reach me: [Email](mailto:i@g4.cx), [Profile](https://hacknical.com/pcdotfan/resume?locale=zh)
