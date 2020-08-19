@@ -1,4 +1,4 @@
-### Hi, I'm Weiyu Weng 👋
+### Hi, I'm Weng Weiyu 👋
 
 - 🔭 I’m currently working on nicetheme.cn, PKU-AIIT-LAIR (intern) 
 - 🌱 I’m currently learning Deep Learning (MATH WARNING)
