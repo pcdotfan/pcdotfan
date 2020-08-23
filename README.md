@@ -9,3 +9,5 @@
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-i@g4.cx-1e87f0?style=flat-square&logo=Gmail&logoColor=fff)](mailto:i@g4.cx) and [Profile](https://hacknical.com/pcdotfan/resume?locale=zh)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pcdotfan)
+
+![PCDotFan's github stats](https://github-readme-stats.vercel.app/api/?username=pcdotfan&show_icons=true&theme=dracula)
