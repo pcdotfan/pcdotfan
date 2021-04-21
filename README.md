@@ -6,7 +6,7 @@
 - 🤔 I’m looking for help with how to get a gf.
 - 😪 I'm always sleepy (or you can buy me boba to wake me up!)
 - 💬 Ask me [nothing](https://box.n3ko.co/_/pcdotfan)
-- 📫 How to reach me: [![Email](https://img.shields.io/badge/-i@g4.cx-1e87f0?style=flat-square&logo=Gmail&logoColor=fff)](mailto:i@g4.cx) and [Profile](https://hacknical.com/pcdotfan/resume?locale=zh)
+- 📫 How to reach me: [![Email](https://img.shields.io/badge/-i@g4.cx-1e87f0?style=flat-square&logo=Gmail&logoColor=fff)](mailto:i@g4.cx)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pcdotfan)
 
