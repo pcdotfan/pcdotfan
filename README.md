@@ -7,4 +7,4 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pcdotfan)
 
-![PCDotFan's github stats](https://github-readme-stats.vercel.app/api/?username=pcdotfan&show_icons=true&theme=dracula)
+![PCDotFan's github stats]([https://github-readme-stats.vercel.app](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/)/api/?username=pcdotfan&show_icons=true&theme=dracula)
