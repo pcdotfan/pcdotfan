@@ -7,4 +7,4 @@
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pcdotfan)
 
-![PCDotFan's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/?username=pcdotfan&show_icons=true&theme=dracula)
+<a href="https://gitroll.io/profile/uuhUxzaraZWMavZWxEowoCUnzt8o1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uuhUxzaraZWMavZWxEowoCUnzt8o1" alt="GitRoll Profile Badge"/></a>
