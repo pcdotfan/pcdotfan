@@ -5,5 +5,3 @@
 - 📫 How to reach me: [![Email](https://img.shields.io/badge/-i@know.cx-1e87f0?style=flat-square&logo=Gmail&logoColor=fff)](mailto:i@know.cx)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=pcdotfan)
-
-<a href="https://gitroll.io/profile/uuhUxzaraZWMavZWxEowoCUnzt8o1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uuhUxzaraZWMavZWxEowoCUnzt8o1" alt="GitRoll Profile Badge"/></a>
